@@ -11,7 +11,7 @@ In the spirit of reproducible research, we provide here the MATLAB codes for rep
   -**LCP_policy_PinT.m**, the PinT Policy iteration solver using NKPA preconditioner  
   -**LCP_policy_block.m**, the Policy iteration solver based on reduced systems  
   -**LCP_policy_block_PinT.m**, the PinT Policy iteration solver based on reduced systems  
-  -**LCP_policy_block_PinT_GMG.m**, the PinT Policy iteration solver based on reduced systems and geometric multigrid for step-(b)  
+  -**LCP_policy_block_PinT_GMG.m**, the PinT Policy iteration solver based on multigrid for step-(b)  
   -**fgmres.m**, the flexible GMRES solver imported from the  TT Toolbox  
   -**mg_iter_2d.m**, the main geometric multigrid V-cycle iteration code  
   
