@@ -2,8 +2,11 @@
 In the spirit of reproducible research, we provide here the MATLAB codes for replicate the results in our preprint:
 "**Parallel-in-Time Iterative Methods for Pricing American Options**" by Xian-Ming Gu, Jun Liu, Cornelis W. Oosterlee, and Hui Xiao.
 
-Below is the description of each code:
-
+# Below is the description of each code:
+  -AmericanOption_1D_BS.m, driver code for Example 1 (1D Black-Scholes Model)
+  -AmericanOption_2D_Spread.m, driver code for Example 2 (2D Spread options)
+  -AmericanOption_2D_Heston.m, driver code for Example 3 (2D Heston Model)
+  
 
 Licence Information:
 
