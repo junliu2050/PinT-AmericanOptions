@@ -1,6 +1,6 @@
 # PinT-AmericanOptions
 In the spirit of reproducible research, we provide here the MATLAB codes for replicate the results in our preprint:
-"**Parallel-in-Time Iterative Methods for Pricing American Options**" by Xian-Ming Gu, Jun Liu, Cornelis W. Oosterlee, and Hui Xiao.
+"**[Parallel-in-Time Iterative Methods for Pricing American Options](https://arxiv.org/abs/2405.08280)**" by Xian-Ming Gu, Jun Liu, Cornelis W. Oosterlee, and Hui Xiao.
 
 # Below is the short description of each code:
   -**AmericanOption_1D_BS.m**, driver code for Example 1 (1D Black-Scholes Model)  
